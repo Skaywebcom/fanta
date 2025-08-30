@@ -39,7 +39,7 @@ const headphoneData = [
     image: Fanta1,
     title: "Orange Fanta",
     subtitle:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae iusto minima ad ut id eos iusto minima ad ut id eos ad ut id eos",
+      "A refreshing, zesty orange soda with a vibrant citrus flavor that’s sweet, fizzy, and perfect for any occasion.",
     price: "$40",
     modal: "Orange",
     bgColor: "#cf4f00",
@@ -49,7 +49,7 @@ const headphoneData = [
     image: Fanta2,
     title: "Cola Zero",
     subtitle:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae iusto minima ad ut id eos iusto minima ad ut id eos ad ut id eos",
+      "A crisp, sugar-free cola with classic fizzy flavor, perfect for those who want all the taste without the calories.",
     price: "$100",
     modal: "Zero",
     bgColor: "#727272",
@@ -59,7 +59,7 @@ const headphoneData = [
     image: Fanta3,
     title: "Coca Cola",
     subtitle:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae iusto minima ad ut id eos iusto minima ad ut id eos ad ut id eos",
+      "The classic fizzy cola with its iconic, refreshing taste that’s loved around the world.",
     price: "$100",
     modal: "Cola",
     bgColor: "#ac1a00",
